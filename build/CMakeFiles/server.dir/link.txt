@@ -1,1 +1,0 @@
-/bin/g++-9  -g   CMakeFiles/server.dir/server.cpp.o  -o server  flatbuffers-build/libflatbuffers.a 
