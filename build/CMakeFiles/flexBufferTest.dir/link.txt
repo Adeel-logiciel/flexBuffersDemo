@@ -1,0 +1,1 @@
+/bin/g++-9  -g   CMakeFiles/flexBufferTest.dir/flexBufferTest.cpp.o  -o flexBufferTest  flatbuffers-build/libflatbuffers.a 
